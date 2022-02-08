@@ -11,7 +11,7 @@ You'll see the fork option on the top right hand side of the screen.
 - Click on the fork button.
 <details open>
   <summary>Fork Button Image</summary>
-  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/fork.PNG" alt="fork button Image">
+  <img src="https://github.com/UAceIt-Winter-of-Mentorship/Car-Insurance-Prediction/blob/main/formk_img.jpg" alt="fork button Image">
 </details>
 
 ### Step 2
@@ -38,7 +38,7 @@ You can do this in 2 ways:
   - Now paste the link.
   - The resulting command should look something like this:
   ```
-  git clone https://github.com/YOUR_USERNAME/Hacktoberfest2020.git
+  git clone https://github.com/YOUR_USERNAME/UAceIt-Winter-of-Mentorship/Car-Insurance-Prediction.git
   ```
 <details>
   <summary>Cloning though git bash</summary>
